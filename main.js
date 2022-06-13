@@ -1,5 +1,5 @@
 function funkcja(n) {
-    if (n <200 & n > 100) {
+    if ((n < 200) && (n > 100)) {
         console.log("Liczba znajduje się w przedziale");
     }
     else {
